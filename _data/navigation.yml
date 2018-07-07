@@ -5,5 +5,7 @@ main:
     url: /about/
   - title: "Archives"
     url: /archives/
+ # - title: "Categories"
+ #   url: /categories/
   - title: "GitHub"
-    url: https://github.com/yous/whiteglass
+    url: https://github.com/gaeulautumn/DGC_react
